@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "toolpkg_id": "com.microllate.dsh_purge_deepseek",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "api_version": "1.0.1",
   "main": "dist/main.js",
   "display_name": {
@@ -9,8 +9,8 @@
     "en": "dsh-purge DeepSeek Adapter"
   },
   "description": {
-    "zh": "静态菜单注册测试，不修改任何模型请求。",
-    "en": "Static input menu registration test; does not modify model requests."
+    "zh": "Prompt Hook 诊断版，不修改模型请求。",
+    "en": "Read-only prompt hook diagnostic."
   },
   "enabled_by_default": false,
   "subpackages": []
