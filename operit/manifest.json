@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "toolpkg_id": "com.microllate.dsh_purge_deepseek",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "api_version": "1.0.1",
   "main": "dist/main.js",
   "display_name": {
@@ -9,7 +9,7 @@
     "en": "dsh-purge DeepSeek Adapter"
   },
   "description": {
-    "zh": "dsh-purge 的 Operit DeepSeek 专用适配层；当前仅注册兼容接口，不修改模型请求。",
+    "zh": "DeepSeek 适配诊断版：在输入菜单显示 Prompt Hook 状态；不修改模型请求。",
     "en": "Operit DeepSeek adapter scaffold; currently registers compatibility hooks without changing model requests."
   },
   "enabled_by_default": false,
