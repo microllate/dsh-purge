@@ -38,7 +38,8 @@ function onInputMenuToggle(event) {
             id: TOGGLE_ID,
             title: "dsh-purge 诊断",
             description: readStatus(),
-            isChecked: false
+            isChecked: false,
+            slot: "thinking"
         }]};
     }
     return null;
