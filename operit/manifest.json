@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "toolpkg_id": "com.microllate.dsh_purge_deepseek",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "api_version": "1.0.1",
   "main": "dist/main.js",
   "display_name": {
@@ -9,7 +9,7 @@
     "en": "dsh-purge DeepSeek Adapter"
   },
   "description": {
-    "zh": "持久化 Prompt Hook 诊断：在输入菜单读取上次执行状态",
+    "zh": "修复模型参数数组解析的只读诊断版本",
     "en": "Persistent read-only prompt hook diagnostic"
   },
   "enabled_by_default": false,
